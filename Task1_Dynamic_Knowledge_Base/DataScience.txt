@@ -1,0 +1,3 @@
+Data Science is the process of extracting useful insights from data.
+It combines statistics, machine learning and visualization.
+Data scientists analyze data to support decision making.
